@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Nodejs(Expressjs)**
 
-- 🌱 I’m currently learning **Nodejs and Expressjs**
-
 <h3 align="left">Connect with me:https://www.linkedin.com/in/serkan-aslan-ersis/</h3>
 <p align="left">
 </p>

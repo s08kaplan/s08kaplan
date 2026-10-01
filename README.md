@@ -26,6 +26,6 @@ src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui
 
 | Project | Tech Stack / Libraries | Source Code | Live Demo |
 | :--- | :--- | :---: | :---: |
-| **AutoDen** | React 19, TypeScript, React Router v7, TanStack Query, Zustand, Tailwind CSS | [📂 Repository][(https://github.com/s08kaplan/cars.git)] | [🌐 Live Site][(https://cars-ppwq.onrender.com)] |
-| **Toddler-Leaning-App** | Vanilla JS GSAP CSS | [📂 Repository][(https://github.com/s08kaplan/toddler-learning-with-game-app.git)] | [🌐 Live Site][(https://toddler-learning-with-game-app.onrender.com/)] |
-| **Teacher-portfolio** | Vanilla JS GSAP CSS | [📂 Repository][(https://github.com/s08kaplan/teacher-portfolio.git)] | [🌐 Live Site][(https://teacher-portfolio-5z5d.onrender.com/)] |
+| **AutoDen** | React 19, TypeScript, React Router v7, TanStack Query, Zustand, Tailwind CSS | <a href="https://github.com/s08kaplan/cars.git" target="_blank">📂 Repository</a> | <a href="https://cars-ppwq.onrender.com" target="_blank">🌐 Live Site</a> |
+| **Toddler-Leaning-App** | Vanilla JS, GSAP, CSS | <a href="https://github.com/s08kaplan/toddler-learning-with-game-app.git" target="_blank">📂 Repository</a> | <a href="https://toddler-learning-with-game-app.onrender.com/" target="_blank">🌐 Live Site</a> |
+| **Teacher-portfolio** | Vanilla JS, GSAP, CSS | <a href="https://github.com/s08kaplan/teacher-portfolio.git" target="_blank">📂 Repository</a> | <a href="https://teacher-portfolio-5z5d.onrender.com/" target="_blank">🌐 Live Site</a> |

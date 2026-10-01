@@ -26,4 +26,5 @@ src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui
 
 | Project | Tech Stack / Libraries | Source Code | Live Demo |
 | :--- | :--- | :---: | :---: |
-| **AutoDen** | React 18, TypeScript, React Router v7, TanStack Query, Zustand, Tailwind CSS | [📂 Repository][(https://github.com/s08kaplan/cars.git)] | [🌐 Live Site][(https://cars-ppwq.onrender.com)] |
+| **AutoDen** | React 19, TypeScript, React Router v7, TanStack Query, Zustand, Tailwind CSS | [📂 Repository][(https://github.com/s08kaplan/cars.git)] | [🌐 Live Site][(https://cars-ppwq.onrender.com)] |
+| **Toddler-Leaning-App** | Vanilla JS GSAP CSS | [📂 Repository][(https://github.com/s08kaplan/toddler-learning-with-game-app.git)] | [🌐 Live Site][(https://toddler-learning-with-game-app.onrender.com/)] |
